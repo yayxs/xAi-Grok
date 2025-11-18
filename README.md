@@ -80,18 +80,15 @@ timeline
         04月03日 : 最新的 Grok3 API
 ```
 
-## 模型
+## Grok 4.1 
 
-- Grok 当下的模型名称相对简单一些。需要注意的是有一些模型已经弃用，比如 grok beta。
+1/  quasarflux 就是 Grok 4.1 Thinking ； tensor 就是 Grok 4.1 的非思考模式 Grok 4.1
 
-## API
+2/  xAI 使用了前沿的 agentic reasoning 模型作为奖励模型，在大规模上自动评估和迭代响
 
-API 的形式会晚于模型的发布。比如在 2025 年 4 月 1 号的时候，grok 最新的 api 是 grok-2-1212，因为 grok3 的 API 还没发布。
+3/ xAI 在 Grok 4.1 上的 “静默推送”（Silent Rollout） 本质上是一种 低风险、可控、逐步验证的新模型上线方式
 
-- 2024-08 马斯克在 2024 年 8 月确认了提供 API 的计划
-- 2024-10-22 Grok 模型的 API 访问最早于 2024 年 10 月 22 日由埃隆·马斯克的人工智能公司 xAI 正式发布
-- 2024-10 正式推出了名为“grok-beta”的 API 模型，用户需要登录 xAI 账户申请访问权限
-- 2025-4 逐步开放了 Grok 3 API 接口服务
+4/ Grok 4.1 现已在 grok. com、𝕏 以及 iOS 和 Android 应用上向所有用户开放
 
 ## 周期性分析
 
